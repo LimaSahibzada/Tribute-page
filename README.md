@@ -9,7 +9,7 @@ I was inspired to create a Tribute Page . I wanted to creat a page that would be
 
 - Below you can have a view of my page:
 
-[Survey Form](https://github.com/LimaSahibzada/Survey-Form-project1/assets/167701815/d1e8a5f3-7799-42d0-93ce-f3d85aebe965)
+!Tribut Page![Survey Form](https://github.com/LimaSahibzada/Tribute-page/assets/167701815/6c7dcc01-fef5-4f5b-bdd4-aa03795b7650)
 
 
 ## Technologies Used 🛠️
